@@ -14,4 +14,5 @@ A data analytics project developed using Power BI, SQL, Excel, and Tableau to an
 
 ## Dashboard Preview
 <img width="1392" height="777" alt="Screenshot (216)" src="https://github.com/user-attachments/assets/0e53de8b-5af4-48d7-90ca-76394079a335" />
-<img width="1392" height="777" alt="Screenshot (216)" src="https://github.com/user-attachments/assets/41cfbcbc-6b62-4421-b39b-fc51effc7bdb" />
+<img width="1920" height="1080" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/cdd10086-030f-46d8-aa2a-ff17149681cb" />
+
